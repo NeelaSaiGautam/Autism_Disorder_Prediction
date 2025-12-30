@@ -156,7 +156,7 @@ Statistics and visualization dashboard
 🚀 **How to Run the Project**
 
 # Clone the repository
-git clone https://github.com/Manish4568/Autism.git
+git clone https://github.com/NeelaSaiGautam/Autism_Disorder_Prediction.git
 
 # Navigate to the project directory
 cd Autism
