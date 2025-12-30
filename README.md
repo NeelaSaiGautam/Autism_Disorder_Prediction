@@ -155,16 +155,20 @@ Statistics and visualization dashboard
 
 🚀 **How to Run the Project**
 
-# Clone the repository
+**Clone the repository**
+
 git clone https://github.com/NeelaSaiGautam/Autism_Disorder_Prediction.git
 
-# Navigate to the project directory
+**Navigate to the project directory**
+
 cd Autism
 
-# Install dependencies
+**Install dependencies**
+
 pip install -r requirements.txt
 
-# Run the Streamlit app
+**Run the Streamlit app**
+
 streamlit run app.py
 
 🐳 **Docker Support**
